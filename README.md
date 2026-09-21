@@ -5,3 +5,5 @@
 https://github.com/SDAIAAcademy
 
 https://github.com/almiyead-rgb/rafeeq-agentic-ai-labs/tree/main
+
+هندسة أنظمة الذكاء الاصطناعي التوكيلي المتقدمة

@@ -1,12 +1,4 @@
 هندسة أنظمة الذكاء الاصطناعي التوكيلي المتقدمة:
-# Rafeeq-mini--wafaa-almutairi
-
-# SDAIA Academy
-
-https://github.com/SDAIAAcademy
-
-https://github.com/almiyead-rgb/rafeeq-agentic-ai-labs/tree/main
-
 
 
 
@@ -76,7 +68,13 @@ ________________________________________
 عند الوصول إلى بوابة كل يوم، احفظ JSON evidence الناتج من التمرين.
 
 
+# Rafeeq-mini--wafaa-almutairi
 
+# SDAIA Academy
+
+https://github.com/SDAIAAcademy
+
+https://github.com/almiyead-rgb/rafeeq-agentic-ai-labs/tree/main
 
 
 
